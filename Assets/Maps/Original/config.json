@@ -1,0 +1,254 @@
+{
+    "StartingSpot": "Go",
+    "StartingMoney": 1500,
+    "HouseCount": 32,
+    "HotelCount": 12,
+    "MapPath":{
+        "Go": {
+            "x":-4.4,
+            "y":4.4,
+            "NextPaths":["Mediterannian Avenue"]
+        },
+        "Mediterannian Avenue": {
+            "x":-3.223,
+            "y":4.637,
+            "NextPaths":["CommunityChest_1"]
+
+        },
+        "CommunityChest_1": {
+            "x":-2.42,
+            "y":4.407,
+            "NextPaths":["Baltic Avenue"]
+
+        },
+        "Baltic Avenue": {
+            "x":-1.662,
+            "y":4.637,
+            "NextPaths":["Income Tax"]
+
+        },
+        "Income Tax": {
+            "x":-0.803,
+            "y":4.358,
+            "NextPaths":["Reading Railroad"]
+
+        },
+        "Reading Railroad": {
+            "x":-0.057,
+            "y":4.505,
+            "NextPaths":["Oriental Avenue"]
+
+        },
+        "Oriental Avenue": {
+            "x":0.758,
+            "y":4.637,
+            "NextPaths":["Chance_1"]
+
+        },
+        "Chance_1": {
+            "x":1.571,
+            "y":4.637,
+            "NextPaths":["Vermont Avenue"]
+
+        },
+        "Vermont Avenue": {
+            "x":2.395,
+            "y":4.637,
+            "NextPaths":["Connecticut Avenue"]
+
+        },
+        "Connecticut Avenue": {
+            "x":3.245,
+            "y":4.637,
+            "NextPaths":["Jail Just Visiting"]
+
+        },
+        "Jail Just Visiting": {
+            "x":4.698,
+            "y":4.816,
+            "NextPaths":["St.Charles Palace"]
+
+        },
+        "Jail": {
+            "x":4.131,
+            "y":4.181,
+            "NextPaths":[]
+
+        },
+        "St.Charles Palace": {
+            "x":4.6,
+            "y":3.272,
+            "NextPaths":["Electric Company"]
+
+        },
+        "Electric Company": {
+            "x":4.6,
+            "y":2.448,
+            "NextPaths":["States Avenue"]
+
+        },
+        "States Avenue": {
+            "x":4.6,
+            "y":1.624,
+            "NextPaths":["Virginia Avenue"]
+
+        },
+        "Virginia Avenue": {
+            "x":4.6,
+            "y":0.816,
+            "NextPaths":["Pennsylvania Railroad"]
+
+        },
+        "Pennsylvania Railroad": {
+            "x":4.6,
+            "y":0.035,
+            "NextPaths":["St.James Place"]
+
+        },
+        "St.James Place": {
+            "x":4.6,
+            "y":-0.79,
+            "NextPaths":["CommunityChest_2"]
+
+        },
+        "CommunityChest_2": {
+            "x":4.332,
+            "y":-1.608,
+            "NextPaths":["Tennessee Avenue"]
+
+        },
+        "Tennessee Avenue": {
+            "x":4.6,
+            "y":-2.443,
+            "NextPaths":["New York Avenue"]
+
+        },
+        "New York Avenue": {
+            "x":4.6,
+            "y":-3.261,
+            "NextPaths":["Free Parking"]
+
+        },
+        "Free Parking": {
+            "x":4.332,
+            "y":-4.385,
+            "NextPaths":["Kentucky Avenue"]
+
+        },
+        "Kentucky Avenue": {
+            "x":3.2,
+            "y":-4.6,
+            "NextPaths":["Chance_2"]
+
+        },
+        "Chance_2": {
+            "x":2.4,
+            "y":-4.6,
+            "NextPaths":["Indiana Avenue"]
+
+        },
+        "Indiana Avenue": {
+            "x":1.6,
+            "y":-4.6,
+            "NextPaths":["Illinois Avenue"]
+
+        },
+        "Illinois Avenue": {
+            "x":0.8,
+            "y":-4.6,
+            "NextPaths":["B & O Railroad"]
+
+        },
+        "B & O Railroad": {
+            "x":0,
+            "y":-4.6,
+            "NextPaths":["Atlantic Avenue"]
+
+        },
+        "Atlantic Avenue": {
+            "x":-0.8,
+            "y":-4.6,
+            "NextPaths":["Ventnor Avenue"]
+
+        },
+        "Ventnor Avenue": {
+            "x":-1.6,
+            "y":-4.6,
+            "NextPaths":["Water Works"]
+
+        },
+        "Water Works": {
+            "x":-2.4,
+            "y":-4.6,
+            "NextPaths":["Marvin Gardens"]
+
+        },
+        "Marvin Gardens": {
+            "x":-3.2,
+            "y":-4.6,
+            "NextPaths":["Go To Jail"]
+
+        },
+        "Go To Jail": {
+            "x":-4.3,
+            "y":-4.6,
+            "NextPaths":["Pacific Avenue"]
+
+        },
+        "Pacific Avenue": {
+            "x":-4.6,
+            "y":-3.2,
+            "NextPaths":["North Carolina Avenue"]
+
+        },
+        "North Carolina Avenue": {
+            "x":-4.6,
+            "y":-2.4,
+            "NextPaths":["CommunityChest_3"]
+
+        },
+        "CommunityChest_3": {
+            "x":-4.3,
+            "y":-1.6,
+            "NextPaths":["Pennsylvania Avenue"]
+
+        },
+        "Pennsylvania Avenue": {
+            "x":-4.6,
+            "y":-0.8,
+            "NextPaths":["Short Line"]
+
+        },
+        "Short Line": {
+            "x":-4.6,
+            "y":0,
+            "NextPaths":["Chance_3"]
+
+        },
+        "Chance_3": {
+            "x":-4.3,
+            "y":0.8,
+            "NextPaths":["Park Place"]
+
+        },
+        "Park Place": {
+            "x":-4.6,
+            "y":1.6,
+            "NextPaths":["Luxury Tax"]
+
+        },
+        "Luxury Tax": {
+            "x":-4.6,
+            "y":2.4,
+            "NextPaths":["Board Walk"]
+
+        },
+        "Board Walk": {
+            "x":-4.6,
+            "y":3.2,
+            "NextPaths":["Go"]
+
+        }
+        
+    }
+}
